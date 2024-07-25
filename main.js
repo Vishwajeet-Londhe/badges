@@ -1,2 +1,2 @@
 const pair = "extraordinary";
-var a = $(4+5)
+var a = console.log("ho ja mere baap")
